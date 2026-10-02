@@ -82,11 +82,12 @@ Navigation page for quick access to all dashboard sections.
 ![Uploading home.png.png…]()
 
 ### Overview
-![Uploading overview.png.png…]()
+<img width="1347" height="743" alt="overview png" src="https://github.com/user-attachments/assets/d4eb3ef9-a0f4-4d49-8431-d45502963b3d" />
+
 
 
 ### Vehicle Analysis
-<img width="1358" height="740" alt="vehicle_analysis png" src="https://github.com/user-attachments/assets/e0615392-6dd5-4a32-ae57-d13cba49f9de" />
+<img width="1358" height="740" alt="vehicle_analysis png" src="https://github.com/user-attachments/assets/0d41e0b3-e17c-4fc1-aada-3e8a954e939f" />
 
 
 ### Revenue Analysis
