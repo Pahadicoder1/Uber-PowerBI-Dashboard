@@ -81,22 +81,24 @@ Navigation page for quick access to all dashboard sections.
 ### Home
 ![Uploading home.png.png…]()
 
-
-
 ### Overview
-![Overview](images/overview.png)
+![Uploading overview.png.png…]()
+
 
 ### Vehicle Analysis
-![Vehicle Analysis](images/vehicle_analysis.png)
+<img width="1358" height="740" alt="vehicle_analysis png" src="https://github.com/user-attachments/assets/e0615392-6dd5-4a32-ae57-d13cba49f9de" />
+
 
 ### Revenue Analysis
-![Revenue](images/revenue.png)
+<img width="1348" height="742" alt="revenue_analysis png" src="https://github.com/user-attachments/assets/2d25123f-6115-405c-9a5c-ffaa613599d4" />
+
 
 ### Cancellation Analysis
-![Cancellation](images/cancellation.png)
+
 
 ### Rating Analysis
-![Rating](images/rating.png)
+<img width="1337" height="732" alt="rating_analysis png" src="https://github.com/user-attachments/assets/4085fd55-1214-4281-bfa9-88dc48482166" />
+
 
 ---
 
