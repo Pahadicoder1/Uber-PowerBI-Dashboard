@@ -1,5 +1,3 @@
-<img width="1327" height="745" alt="home png" src="https://github.com/user-attachments/assets/63df2a7c-459e-474f-82ba-7001329839d8" /># Uber-PowerBI-Dashboard
-
 ## 📌 Project Overview
 
 This project is an interactive **Power BI dashboard** developed to analyze Uber ride booking data. It provides insights into booking performance, revenue, vehicle performance, cancellation trends, and customer/driver ratings through interactive visualizations.
@@ -96,7 +94,6 @@ Navigation page for quick access to all dashboard sections.
 ### Rating Analysis
 <img width="1337" height="732" alt="rating_analysis png" src="https://github.com/user-attachments/assets/4085fd55-1214-4281-bfa9-88dc48482166" />
 
-
 ---
 
 ## 🚀 Key Features
@@ -125,5 +122,3 @@ Aspiring Data Analyst
 - Python (Pandas)
 
 ---
-
-⭐ If you found this project useful, feel free to star this repository.
