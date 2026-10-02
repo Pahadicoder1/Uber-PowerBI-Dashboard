@@ -1,4 +1,4 @@
-# Uber-PowerBI-Dashboard
+<img width="1327" height="745" alt="home png" src="https://github.com/user-attachments/assets/63df2a7c-459e-474f-82ba-7001329839d8" /># Uber-PowerBI-Dashboard
 
 ## 📌 Project Overview
 
@@ -79,7 +79,9 @@ Navigation page for quick access to all dashboard sections.
 ## 📷 Dashboard Preview
 
 ### Home
-![Home](images/home.png)
+![Uploading home.png.png…]()
+
+
 
 ### Overview
 ![Overview](images/overview.png)
