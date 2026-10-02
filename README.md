@@ -18,7 +18,7 @@ This project is an interactive **Power BI dashboard** developed to analyze Uber 
 ## 📊 Dashboard Pages
 
 ### 🏠 Home
-Navigation page for quick access to all dashboard sections.
+This is navigation page for quick access to all dashboard sections.
 
 ### 📈 Overview
 - Total Bookings
