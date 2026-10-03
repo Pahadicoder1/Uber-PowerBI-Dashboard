@@ -77,22 +77,22 @@ This is navigation page for quick access to all dashboard sections.
 ## 📷 Dashboard Preview
 
 ### Home
-<img width="1327" height="745" alt="home png" src="https://github.com/user-attachments/assets/26baf514-c9f6-4b75-952f-b7f3d53ba7b6" />
+![Home](images/home.png.png)
 
 ### Overview
-<img width="1347" height="743" alt="overview png" src="https://github.com/user-attachments/assets/d4eb3ef9-a0f4-4d49-8431-d45502963b3d" />
+![Overview](images/overview.png.png)
 
 ### Vehicle Analysis
-<img width="1358" height="740" alt="vehicle_analysis png" src="https://github.com/user-attachments/assets/0d41e0b3-e17c-4fc1-aada-3e8a954e939f" />
+![Vehicle Analysis](images/vehicle_analysis.png.png)
 
 ### Revenue Analysis
-<img width="1348" height="742" alt="revenue_analysis png" src="https://github.com/user-attachments/assets/2d25123f-6115-405c-9a5c-ffaa613599d4" />
+![Revenue Analysis](images/revenue_analysis.png.png)
 
 ### Cancellation Analysis
-<img width="1351" height="745" alt="cancellation_analysis png" src="https://github.com/user-attachments/assets/31357f70-1a05-48c7-a268-8a32177131ec" />
+![Cancellation Analysis](images/cancellation_analysis.png.png)
 
 ### Rating Analysis
-<img width="1337" height="732" alt="rating_analysis png" src="https://github.com/user-attachments/assets/4085fd55-1214-4281-bfa9-88dc48482166" />
+![Rating Analysis](images/rating_analysis.png.png)
 
 ---
 
