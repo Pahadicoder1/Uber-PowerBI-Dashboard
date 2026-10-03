@@ -77,22 +77,22 @@ This is navigation page for quick access to all dashboard sections.
 ## 📷 Dashboard Preview
 
 ### Home
-![Home](images/home.png.png)
+![Home](images/home.png)
 
 ### Overview
-![Overview](images/overview.png.png)
+![Overview](images/overview.png)
 
 ### Vehicle Analysis
-![Vehicle Analysis](images/vehicle_analysis.png.png)
+![Vehicle Analysis](images/vehicle_analysis.png)
 
 ### Revenue Analysis
-![Revenue Analysis](images/revenue_analysis.png.png)
+![Revenue Analysis](images/revenue_analysis.png)
 
 ### Cancellation Analysis
-![Cancellation Analysis](images/cancellation_analysis.png.png)
+![Cancellation Analysis](images/cancellation_analysis.png)
 
 ### Rating Analysis
-![Rating Analysis](images/rating_analysis.png.png)
+![Rating Analysis](images/rating_analysis.png)
 
 ---
 
