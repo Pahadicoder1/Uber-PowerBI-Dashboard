@@ -1,26 +1,28 @@
-## 📌 Project Overview
+# Uber Ride Booking Analysis Dashboard
 
-This project is an interactive **Power BI dashboard** developed to analyze Uber ride booking data. It provides insights into booking performance, revenue, vehicle performance, cancellation trends, and customer/driver ratings through interactive visualizations.
+## Project Overview
 
----
-
-## 🎯 Business Objectives
-
-- Analyze overall booking performance.
-- Monitor completed and failed rides.
-- Identify major cancellation reasons.
-- Compare vehicle-wise performance.
-- Analyze revenue and payment methods.
-- Evaluate customer and driver ratings.
+This project is a Power BI dashboard created using Uber ride booking data. The goal of this project is to understand booking trends, ride performance, revenue, cancellations, and customer and driver ratings. The dashboard allows users to explore different parts of the data through interactive visuals and filters.
 
 ---
 
-## 📊 Dashboard Pages
+## Objectives
 
-### 🏠 Home
-This is navigation page for quick access to all dashboard sections.
+- Analyze overall ride bookings
+- Compare completed and failed rides
+- Identify cancellation patterns
+- Compare different vehicle types
+- Analyze revenue and payment methods
+- Review customer and driver ratings
 
-### 📈 Overview
+---
+
+## Dashboard Pages
+
+### Home
+Navigation page to access all dashboard sections.
+
+### Overview
 - Total Bookings
 - Completed Bookings
 - Failed Bookings
@@ -28,30 +30,31 @@ This is navigation page for quick access to all dashboard sections.
 - Monthly Booking Trend
 - Booking Status Distribution
 
-### 🚗 Vehicle Analysis
+### Vehicle Analysis
+- Vehicle-wise Bookings
 - Total Booking Value
-- Successful Booking Value
-- Average Distance
+- Average Ride Distance
 - Total Distance
-- Vehicle-wise Performance Comparison
+- Vehicle Performance Comparison
 
-### 💰 Revenue Analysis
-- Revenue by Payment Method
+### Revenue Analysis
 - Revenue Trend
+- Revenue by Payment Method
 - Payment Method Distribution
 
-### ❌ Cancellation Analysis
+### Cancellation Analysis
 - Customer Cancellation Reasons
 - Driver Cancellation Reasons
-- Failed Booking Analysis
+- Failed Ride Analysis
 
-### ⭐ Rating Analysis
-- Customer Ratings by Vehicle
-- Driver Ratings by Vehicle
+### Rating Analysis
+- Customer Ratings
+- Driver Ratings
+- Vehicle-wise Rating Comparison
 
 ---
 
-## 📌 Key Performance Indicators (KPIs)
+## KPIs
 
 - Total Bookings
 - Completed Bookings
@@ -64,17 +67,16 @@ This is navigation page for quick access to all dashboard sections.
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools Used
 
-- Power BI Desktop
+- Power BI
 - Power Query
 - DAX
-- Data Modeling
 - Microsoft Excel
 
 ---
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ### Home
 ![Home](images/home.png)
@@ -96,29 +98,28 @@ This is navigation page for quick access to all dashboard sections.
 
 ---
 
-## 🚀 Key Features
+## Features
 
-- Interactive Navigation
-- Dynamic Slicers
-- KPI Cards
-- DAX Measures
-- Vehicle-wise Analysis
-- Revenue Analysis
-- Cancellation Insights
-- Customer & Driver Rating Analysis
+- Interactive dashboard
+- Dynamic filters and slicers
+- KPI cards
+- DAX measures
+- Vehicle-wise analysis
+- Revenue insights
+- Cancellation analysis
+- Customer and driver rating analysis
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Shubham Uniyal**
 
 Aspiring Data Analyst
 
 ### Skills
+
 - SQL
 - Excel
 - Power BI
 - Python (Pandas)
-
----
