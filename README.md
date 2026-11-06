@@ -1,26 +1,39 @@
-# Uber Ride Booking Analysis Dashboard
+# Uber Ride Booking Analysis
 
-## Project Overview
+## About the Project
 
-This project is a Power BI dashboard created using Uber ride booking data. The goal of this project is to understand booking trends, ride performance, revenue, cancellations, and customer and driver ratings. The dashboard allows users to explore different parts of the data through interactive visuals and filters.
+This project is based on a 2024 Uber ride booking dataset. I cleaned the raw data using Python (Pandas) and created an interactive dashboard in Power BI to analyze booking trends, revenue, cancellations, vehicle performance, and customer and driver ratings.
+
+The purpose of this project was to practice data cleaning, data modeling, DAX, and dashboard creation using a real-world dataset.
 
 ---
 
-## Objectives
+## Dataset
 
-- Analyze overall ride bookings
-- Compare completed and failed rides
-- Identify cancellation patterns
-- Compare different vehicle types
-- Analyze revenue and payment methods
-- Review customer and driver ratings
+- Uber Ride Booking Dataset (2024)
+
+---
+
+## Data Cleaning
+
+The dataset was cleaned in Python before importing it into Power BI.
+
+The cleaning process included:
+
+- Removing rows with missing dates
+- Converting Excel serial dates into date format
+- Converting the time column into time format
+- Handling missing values
+- Removing duplicate records
+- Checking data types
+- Exporting the cleaned dataset for Power BI
 
 ---
 
 ## Dashboard Pages
 
 ### Home
-Navigation page to access all dashboard sections.
+Navigation page for the dashboard.
 
 ### Overview
 - Total Bookings
@@ -31,11 +44,11 @@ Navigation page to access all dashboard sections.
 - Booking Status Distribution
 
 ### Vehicle Analysis
-- Vehicle-wise Bookings
 - Total Booking Value
+- Successful Booking Value
 - Average Ride Distance
-- Total Distance
-- Vehicle Performance Comparison
+- Total Ride Distance
+- Vehicle-wise Performance
 
 ### Revenue Analysis
 - Revenue Trend
@@ -69,6 +82,7 @@ Navigation page to access all dashboard sections.
 
 ## Tools Used
 
+- Python (Pandas)
 - Power BI
 - Power Query
 - DAX
@@ -98,16 +112,12 @@ Navigation page to access all dashboard sections.
 
 ---
 
-## Features
+## Project Files
 
-- Interactive dashboard
-- Dynamic filters and slicers
-- KPI cards
-- DAX measures
-- Vehicle-wise analysis
-- Revenue insights
-- Cancellation analysis
-- Customer and driver rating analysis
+- Cleaned Dataset
+- Python Data Cleaning Script
+- Power BI Dashboard (.pbix)
+- Dashboard Screenshots
 
 ---
 
@@ -120,6 +130,12 @@ Aspiring Data Analyst
 ### Skills
 
 - SQL
-- Excel
-- Power BI
 - Python (Pandas)
+- Power BI
+- Excel
+
+---
+
+## Note
+
+This project uses a 2024 Uber ride booking dataset for learning and portfolio purposes.
